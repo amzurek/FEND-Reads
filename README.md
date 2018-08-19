@@ -12,3 +12,7 @@ To get started:
 * start the development server with `npm start`
 * then will be opened 'localhost:3000'
 
+## What next:
+
+* create profiles to share books
+* create place for comments and rating
